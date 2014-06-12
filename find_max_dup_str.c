@@ -5,6 +5,15 @@
 
 using namespace std;
 
+/*
+ * method:
+ *   a b c d e f g
+ * a
+ * b
+ * c
+ * it just need to find out maxDupNum and last index
+ * */
+
 
 void printMaxDupStr(char *str1, char *str2) {
   int str1Len = strlen(str1);
